@@ -1,4 +1,10 @@
-# MuesliSwap token listing 🥣
+Using our [Community section](https://ada.muesliswap.com/markets/community), you can now trade any token on Cardano without registration or verification.  
+However, verifying your token will give you more visibility and increase the trust of the community.  
+To get the verified, check out the [documentation](https://docs.muesliswap.com/cardano/community-tokens/token-verification) and the [Github repository](https://github.com/MuesliSwapTeam/muesliswap-token-verification)
+
+# This repository is now obsolete 
+
+## MuesliSwap token listing 🥣
 
 The official repository to request a token listing @ AdaMuesliSwap
 

@@ -1,0 +1,18 @@
+{
+    "policyId": "b34b3ea80060ace9427bda98690a73d33840e27aaa8d6edb7f0c757a",
+    "name": "cNETA",
+    "symbol": "$cNETA",
+    "website": "https://www.anetabtc.io/",
+    "description": "Cardano governance token for anetaBTC: Decentralized, On-chain BTC on Ergo and Cardano",
+    "totalSupply": 1000000000,
+    "amounts": [
+        1,
+        10,
+        100,
+        1000,
+        10000,
+        100000,
+        1000000
+
+    ]
+}

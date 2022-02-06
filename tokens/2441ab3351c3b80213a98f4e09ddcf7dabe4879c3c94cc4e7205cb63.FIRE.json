@@ -1,0 +1,9 @@
+{
+  "policyId": "2441ab3351c3b80213a98f4e09ddcf7dabe4879c3c94cc4e7205cb63.FIRE",
+  "name": "Dracards FIRE",
+  "symbol": "FIRE",
+  "website": "https://dracards.com",
+  "description": "Dracards Fire (FIRE) is a token for the Dracards Ecosystem.",
+  "totalSupply": 100000000,
+  "amounts": [ 1, 10, 100, 1000, 10000, 100000, 1000000 ]
+}

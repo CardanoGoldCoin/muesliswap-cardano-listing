@@ -1,9 +1,0 @@
-{
-   "policyId": "c7dcfa416c127f630b263c7e0fe0564430cfa9c56bba43e1a37c6915",
-    "name": "GoKey", 
-    "symbol": "GOKEY", 
-    "website": "https://gokey.network", 
-    "description": "GOKEY is the native payment and utility token of the GoKey Network on Cardano.",
-    "totalSupply": 4500000000,
-    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000]
-}

@@ -1,0 +1,9 @@
+{
+    "policyId": "208a2ca888886921513cb777bb832a8dc685c04de990480151f12150",
+    "name": "SHIBADA",
+    "symbol": "SHIBADA",
+    "website": "https://shibada.io",
+    "description": "While other Cardano meme coins are set at $0 and aim to remain stable, we aim to grow to the moon and beyond, even beyond Pluto. With lots of burns, big marketing campaigns and an army like no other, we are ready to be the first dogs to go to Pluto.",
+    "totalSupply": 53226240000,
+    "amounts": [1000000, 5000000, 10000000, 20000000, 30000000, 50000000]
+}

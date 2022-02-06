@@ -1,0 +1,9 @@
+{
+  "policyId": "dca54ecf37b0e3af2fdfd336e1d21fadcc45b3261b0f73a095631dfe",
+  "name": "DOEX",
+  "symbol": "DOEX",
+  "website": "https://do.exchange",
+  "description": "AMM-based decentralized exchange for assets that are native to the Cardano Blockchain",
+  "totalSupply": 140000000,
+  "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000]
+}

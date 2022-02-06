@@ -1,0 +1,10 @@
+{
+    "policyId": "025146866af908340247fe4e9672d5ac7059f1e8534696b5f920c9e6",
+    "name": "cbTHC",
+    "symbol": "cbTHC",
+    "website": "https://CardanoBudz.io",
+    "description": "Cardano Budz The Hodl Coin is a utility token to be used with the Cardano Budz and Grow your own Adventure ecosystem.  It is exchange for materials, and is awarded through BUDZ pool delegation, purchasing Cardano Budz Assets, and succesful completion of a grow cycle.",
+    "totalSupply": 420000000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+    "decimalPlaces": 6
+}

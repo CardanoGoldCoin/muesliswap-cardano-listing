@@ -1,0 +1,9 @@
+{
+    "policyId": "3d63964527efea27f0e6dcdd314b68bf8c9fa34249d3989d49007c6a",
+    "name": "Catjam",
+    "symbol": "MEOW",
+    "website": "https://www.catjamtoken.io/",
+    "description": "Send someone good vibes",
+    "totalSupply": 1000000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000]
+}

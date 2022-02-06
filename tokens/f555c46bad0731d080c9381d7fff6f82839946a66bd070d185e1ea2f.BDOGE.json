@@ -1,0 +1,9 @@
+{
+    "policyId": "f555c46bad0731d080c9381d7fff6f82839946a66bd070d185e1ea2f",
+    "name": "BDOGE",
+    "symbol": "BDOGE",
+    "website": "www.BlackDoge.io",
+    "description": "The Greatest Dog Meme Coin on the Cardano Blockchain!",
+    "totalSupply": 100000000,
+    "amounts": [100, 500, 1000, 10000, 100000]
+}

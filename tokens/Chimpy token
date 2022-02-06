@@ -1,0 +1,10 @@
+{
+    "policyId": "ff791cdf3857627970df7f7930bfb7c8eee3ce45df43860d68b9ef60",
+    "name": "CHIMPY", 
+    "symbol": "$CHIMPY", 
+    "website": "https://chimpy.click/", 
+    "description": "The meme s**tcoin you buy so that you later have something to regret having done.
+We know we're second - that's why we strive less.",
+    "totalSupply": 30000000000000,
+    "amounts": [1000000,20000000, 50000000, 100000000, 200000000, 500000000, 1000000000, 10000000000]
+}

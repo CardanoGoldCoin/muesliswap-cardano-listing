@@ -1,0 +1,9 @@
+{
+    "policyId": "4cb48d60d1f7823d1307c61b9ecf472ff78cf22d1ccc5786d59461f8",
+    "name": "CardanoMoon",
+    "symbol": "ADAMOON",
+    "website": "https://cardanomoon.io",
+    "description": "First moonshot and one of the very first meme coins on Cardano blockchain.",
+    "totalSupply": 1000000000,
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+}

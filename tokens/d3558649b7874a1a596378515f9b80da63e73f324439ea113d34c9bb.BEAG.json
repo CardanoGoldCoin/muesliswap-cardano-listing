@@ -1,0 +1,17 @@
+{
+
+    "policyId": "d3558649b7874a1a596378515f9b80da63e73f324439ea113d34c9bb",
+
+    "name": “Beagle Bucks”,
+
+    "symbol": “BEAG”,
+
+    "website": "https://www.beaglebucks.info/",
+
+    "description": “Cardano’s first meme dog token.”,
+
+    "totalSupply": 35000000,
+
+    "amounts": [1, 10, 100, 1000, 10000, 100000]
+
+}

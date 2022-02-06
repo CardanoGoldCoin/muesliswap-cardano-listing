@@ -1,0 +1,10 @@
+{
+    "policyId": "a4da8764a57e66a0085b5bfcde96c89b798d92ee83a75f59237e375b",
+    "name": "$FIRE Token",
+    "symbol": "FIRE",
+    "website": "https://FireTokenADA.com",
+    "description": "Part memecoin, part community. All FIRE!. Get em while they’re HOT! Plus, help fight wildfires with $FIRE.",
+    "totalSupply": 500000000,
+    "amounts": [100, 500, 1000, 1500, 2500, 5000, 10000, 25000, 50000, 75000, 100000, 150000, 200000, 250000, 500000, 1000000],
+    "decimalPlaces": 0
+}

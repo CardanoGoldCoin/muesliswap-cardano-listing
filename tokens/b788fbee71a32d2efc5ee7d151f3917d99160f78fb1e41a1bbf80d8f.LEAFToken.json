@@ -1,0 +1,9 @@
+{
+    "policyId": "b788fbee71a32d2efc5ee7d151f3917d99160f78fb1e41a1bbf80d8f",
+    "name": "LEAF Token", 
+    "symbol": "$LEAF", 
+    "website": "https://leaftoken.xyz/", 
+    "description": "The new 420 themed meme coin on Cardano. LEAF Token is the meme weed token everybody waited for!!",
+    "totalSupply": 420000000000000000,
+    "amounts": [1000000000, 420000000000, 500000000000, 1000000000000, 10000000000000, 100000000000000, 420000000000000]
+}
