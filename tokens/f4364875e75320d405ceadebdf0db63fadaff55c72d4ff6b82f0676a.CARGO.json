@@ -1,0 +1,10 @@
+{
+    "policyId": "f4364875e75320d405ceadebdf0db63fadaff55c72d4ff6b82f0676a",
+    "name": "Cardano Gold",
+    "symbol": "CARGO",
+    "website": "https://www.cardanogoldcoin.com/",
+    "description": "Cardano Gold (CARGO) is the 1st Cardano Store of Value. Only 10.000.000 minted. Coin burning. BuyBack. Innovative Governance model and Treasury. Decentralization.",
+    "totalSupply": 10000000,
+    "amounts": [1, 10, 50, 100, 500, 1000, 2000, 3000, 5000, 7000, 10000]
+    "decimalPlaces": 6
+}
